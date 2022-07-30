@@ -10,7 +10,7 @@ public class OpenUrl {
 		//setting property of chrome and passing the chrome driver path  
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Lenovo\\eclipse-workspace\\chromedriver.exe");
 		//Creating and launching instance of chrome driver 
-		WebDriver driver = new chrome);
+		WebDriver driver = new ChromeDriver();
 		
 	}
 
